@@ -47,8 +47,8 @@ presentation/Presentation.pdf
     this repository).
 
 presentation/Transcript.pdf
-    A PDF copy of the transcript for the video presentation (presentation 
-    video not available in this repository).
+    A PDF copy of the transcript for the video presentation (video 
+    presentation not available in this repository).
 
 
 License
