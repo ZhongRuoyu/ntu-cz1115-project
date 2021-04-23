@@ -9,8 +9,8 @@ Nanyang Technological University
 
 April 2021
 
-This repository, as part of the CZ1115 mini project, is submitted to Nanyang 
-Technological University as a graded assignment.
+This repository is submitted to Nanyang Technological University as part of a 
+graded assignment.
 
 
 Directory Contents
