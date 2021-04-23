@@ -1,6 +1,9 @@
 Modelling a Pandemic: A Comparative Study
 =========================================
 
+Repository Description
+----------------------
+
 Zhong Ruoyu (C200201@e.ntu.edu.sg)
 Li Xingjian (XLI072@e.ntu.edu.sg)
 
@@ -10,8 +13,8 @@ Nanyang Technological University
 April 2021
 
 This repository is submitted to Nanyang Technological University as part of a 
-graded assignment for course CZ1115 (Introduction to Data Science & Artificial 
-Intelligence).
+graded assignment for the course CZ1115 (Introduction to Data Science & 
+Artificial Intelligence).
 
 
 Repository Contents
