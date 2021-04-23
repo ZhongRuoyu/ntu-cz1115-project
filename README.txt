@@ -10,13 +10,14 @@ Nanyang Technological University
 April 2021
 
 This repository is submitted to Nanyang Technological University as part of a 
-graded assignment.
+graded assignment for course CZ1115 (Introduction to Data Science & Artificial 
+Intelligence).
 
 
-Directory Contents
-------------------
+Repository Contents
+-------------------
 
-FSP6_Team1
+FSP6_Team01
 │   covid.ipynb
 │   LICENSE
 │   README.txt
@@ -36,15 +37,15 @@ LICENSE
     The licensing information for this project.
 
 README.txt (this file)
-    Basic information about the project directory.
+    Basic information about the project repository.
 
 presentation/Presentation.pdf
     A PDF copy of the presentation slides (video presentation not available in 
-    this directory).
+    this repository).
 
 presentation/Transcript.pdf
     A PDF copy of the transcript for the video presentation (presentation 
-    video not available in this directory).
+    video not available in this repository).
 
 
 License
